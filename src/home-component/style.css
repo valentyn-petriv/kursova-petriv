@@ -1,0 +1,22 @@
+.slide{
+	margin-left: 10%;
+	width: 80%;
+    height: 300px;
+}
+.h1{
+	font-size: 50px;
+	color: white;
+}
+.home{
+	width:50%;
+	display: inline-block;
+}
+.hometext{
+	width:70%;
+	display: inline-block;
+	padding-bottom: 20%;
+	font-size: 20px;
+}
+.content{
+	    margin: 65px;
+}
